@@ -262,10 +262,6 @@ form input{
 form input:focus{
     background: rgb(229,229,229);
 }
-.constructionMsg{
-    color: white;
-    text-align: center;
-}
 
 /* Footer */
 footer{
@@ -307,6 +303,10 @@ footer{
 }
 .social-icons i:hover{
     color: white;
+}
+.constructionMsg{
+    color: white;
+    text-align: center;
 }
 
 /* Media */
