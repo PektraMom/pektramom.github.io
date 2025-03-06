@@ -304,6 +304,10 @@ footer{
 .social-icons i:hover{
     color: white;
 }
+.constructionMsg{
+    text-align: center;
+    color: white;
+}
 
 /* Media */
 @media(max-width: 968px){
